@@ -1,13 +1,14 @@
 Hey![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Nice to see you.
-================================================================================================================================
-
-Welcome to my page!
 -------------------
 
-### A little bit about me
+Welcome to my page!
+
+I'm Levi, Fullstack developer from China, currently living in Vancouver, Canada.
+
+
+### A little bit more about me
 ```
-name: Levi Zhu
-located_in: Vancouver, Canada
+
 education:
   [
     "Master of Science in Cybersecurity",
